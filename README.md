@@ -1,6 +1,6 @@
 # 💖 Will You Be My Valentine? 💖
 
-A fun and interactive Valentine's Day web page that playfully encourages your special someone to say "Yes"!
+A fun and interactive Valentine's Day web page that playfully encourages your special one to say "Yes"!
 
 ## ✨ Features
 
